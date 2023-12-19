@@ -1,0 +1,3 @@
+[submodule "CoverageTasks"]
+	path = CoverageTasks
+	url = https://github.com/kasperg3/CoverageTasks.git

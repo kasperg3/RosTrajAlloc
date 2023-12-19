@@ -1,0 +1,7 @@
+numpy
+shapely
+geojson
+scipy
+networkx
+matplotlib
+extremitypathfinder[numba]
